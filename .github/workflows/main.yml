@@ -14,7 +14,7 @@ on:
   # Allow triggering this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Set up the job for this workflow
+# Set up the job for this workflow.
 jobs:
   # This workflow contains a single job that we are calling "build-and-test"
   build-and-test:
